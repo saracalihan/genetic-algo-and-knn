@@ -1,0 +1,4 @@
+age,sex,cp,trestbps,chol,fbs,restecg,thalach,exang,oldpeak,slope,ca,thal,target
+
+
+https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
